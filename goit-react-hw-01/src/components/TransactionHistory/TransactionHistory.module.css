@@ -1,0 +1,4 @@
+.table { width: 100%; max-width: 600px; margin: 16px auto; border-collapse: collapse; }
+th, td { border: 1px solid #eee; padding: 8px; text-align: left; }
+thead { background: #fafafa; }
+.type { text-transform: capitalize; }
